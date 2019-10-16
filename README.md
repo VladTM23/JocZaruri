@@ -1,1 +1,5 @@
 # JocZaruri
+
+---
+permalink: /dicee.html
+---
